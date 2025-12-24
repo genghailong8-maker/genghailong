@@ -1,1 +1,6 @@
-# genghailong
+# about me
+1.篮球
+2.编程
+3.人工智能
+U+1F309
+
